@@ -10,8 +10,8 @@ Ce repo contient mes notes, guides techniques et process.
 ### ⚙️ Général
 
 ### 🌳 Git
-- [Commandes Git](git/git.md)
-- [Actions GitHub](git/github.md)
+- [Commandes Git](git/commands.md)
+- [GitHub](git/github.md)
 
 ### 💻 .NET
 - [Entity Framework](dotnet/entity-framework.md)
