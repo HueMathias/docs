@@ -7,7 +7,7 @@
 3. [GitHub Actions - Vue d'ensemble](#github-actions---vue-densemble)
 4. [Créer un workflow](#créer-un-workflow)
 5. [Syntaxe des workflows](#syntaxe-des-workflows)
-6. [Exemples .NET](#exemples-.net)
+6. [Exemples .NET](#exemples-net)
 7. [Bonnes pratiques](#bonnes-pratiques)
 8. [Ressources utiles](#ressources-utiles)
 
