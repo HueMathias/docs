@@ -18,9 +18,6 @@ Ce repo contient mes notes, guides techniques et process.
 
 ### ☁️ DevOps
 - [Linux](devops/linux.md)
-- [Nginx & Reverse Proxy](devops/nginx.md)
-- [SonarQube](devops/sonarqube.md)
-- [GitHub Actions (CI/CD)](devops/github-actions.md)
 
 ---
 
