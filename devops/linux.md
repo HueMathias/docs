@@ -95,6 +95,7 @@ useradd -d <chemin> -m -s /bin/sh <utilisateur>
 ```
 
 | Option | Signification | Description |
+|---  |:-:  |---  |
 | `-d <chemin>` | **Répertoire personnel (home directory)** | Définit le chemin du dossier personnel de l’utilisateur au lieu du répertoire par défaut `/home/<utilisateur>`. |
 | `-m` | **Créer le répertoire s’il n’existe pas** | Si le dossier n’existe pas, il sera automatiquement créé. |
 | `-s /bin/sh` | **Shell par défaut** | Définit quel interpréteur de commande (shell) sera utilisé par défaut. Ici, `/bin/sh` est choisi (shell standard et léger). |
@@ -106,8 +107,7 @@ Définir un mot de passe :
 passwd <utilisateur>
 ```
 
-Ajouter l’utilisateur à des groupes :
+Ajouter l’utilisateur à un groupe :
 ```bash
-usermod -a -G sshusers <utilisateur>
-usermod -a -G sftpusers <utilisateur>
+usermod -a -G <groupe> <utilisateur>
 ```
